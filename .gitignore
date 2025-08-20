@@ -1,0 +1,49 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.ipch/
+*.pdb
+*.idb
+
+# Visual Studio Code settings
+.vscode/
+
+# CMake build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other
+*.log
+*.tmp
+*.user
+*.suo
+*.sdf
+*.opensdf
+
+# Ignore generated files
+*.generated.*
+
+# Ignore
